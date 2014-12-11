@@ -526,6 +526,5 @@ input[type="number"] {
 * [CSSLint](https://github.com/CSSLint)
 * [SublimeLinter-csslint](https://github.com/SublimeLinter/SublimeLinter-csslint)
 * [csslint.vim](http://www.vim.org/scripts/script.php?script_id=3823)
-* [st-snippets](https://github.com/rafaelrinaldi/st-snippets/tree/master/comments)
 
 **[⬅ voltar à página inicial](../../)**&nbsp;&nbsp;&nbsp;&nbsp;**[⬆ voltar ao topo](#menu)**
