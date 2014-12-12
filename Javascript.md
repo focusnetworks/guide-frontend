@@ -5,7 +5,7 @@ Focusnetworks JavaScript code styleguide.
 ## Menu
 
 * [Disclaimer](#disclaimer)
-* [Semicolons](#semicolons)
+* [Vírgulas](#vírgulas)
 * [Strict mode](#strict-mode)
 * [Context and closures](#context-and-closures)
 * [Variables](#variables)
