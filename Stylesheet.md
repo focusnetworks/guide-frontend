@@ -30,7 +30,7 @@ Focusnetworks Stylesheet code styleguide.
   * [Nomes e valores de propriedades](#nomes-e-valores-de-propriedades)
   * [Declaração de blocos](#declaração-de-blocos)
   * [Multiplos seletores](#multiplos-seletores)
-  * [Multiplas rules](#multiplas-regras)
+  * [Multiplas regras](#multiplas-regras)
   * [Multiplos valores](#multiplos-valores)
 * [Links](#links)
   * [Artigos e posts](#artigos-e-posts)
