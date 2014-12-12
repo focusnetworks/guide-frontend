@@ -1,10 +1,10 @@
 #![logo](logo_interactive.png)
 
-## Introduction
+## Introdução
 
 Este repositório contém as orientações para escrever o código de front-end da Focusnetworks com base em um conjunto de regras, criadas para certificar que nossos projetos tenham um código consistente.
 
-## Quotes
+## Citações
 
 >All code in any code-base should look like a single person typed it, no matter how many people contributed.  
 ><small>– _Rick Waldon_</small>
@@ -26,7 +26,7 @@ Este repositório contém as orientações para escrever o código de front-end 
 
 ## Styleguides
 
-* <big>**[JavaScript](/JavaScript.md)**</big>
+* <big>**[JavaScript](/Javacript.md)**</big>
 * <big>**[Stylesheet](/Stylesheet.md)**</big>
 * <big>**[Markup](/Markup.md)**</big>
 
