@@ -5,7 +5,7 @@ Focusnetworks JavaScript code styleguide.
 ## Menu
 
 * [Disclaimer](#disclaimer)
-* [Vírgulas](#vírgulas)
+* [Ponto e vírgula](#ponto-e-vírgula)
 * [Strict mode](#strict-mode)
 * [Context e closures](#context-e-closures)
 * [Variáveis](#variáveis)
@@ -74,7 +74,7 @@ Esse documento foi inspirado por [jQuery Style Guide](http://contribute.jquery.o
 
 **[⬆ voltar ao menu](#menu)**
 
-## Vírgulas
+## Ponto e vírgulaa
 
 * Sempre, por favor! [ASI](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Automatic_semicolon_insertion) é muito complicado, não confie nele.
 
