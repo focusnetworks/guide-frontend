@@ -1,5 +1,7 @@
 #![logo](logo_interactive.png)
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/focusnetworks/guide-frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introdução
 
 Este repositório contém as orientações para escrever o código de front-end da Focusnetworks com base em um conjunto de regras, criadas para certificar que nossos projetos tenham um código consistente.
