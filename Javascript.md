@@ -7,66 +7,66 @@ Focusnetworks JavaScript code styleguide.
 * [Disclaimer](#disclaimer)
 * [Vírgulas](#vírgulas)
 * [Strict mode](#strict-mode)
-* [Context and closures](#context-and-closures)
-* [Variables](#variables)
-  * [Single `var` definition](#single-var-definition)
-  * [Order](#order)
-  * [Style](#style)
-* [Objects](#objects)
-  * [Object literal syntax](#object-literal-syntax)
-  * [Reserved words](#reserved-words)
-  * [Object keys](#object-keys)
+* [Context e closures](#context-e-closures)
+* [Variáveis](#variáveis)
+  * [Definição de `var` simples](#definição-de-var-simples)
+  * [Ordem](#ordem)
+  * [Estilo](#estilo)
+* [Objetos](#objetos)
+  * [Sintaxe literal de objetos](#sintaxe-literal-de-objetos)
+  * [Palavras reservadas](#palavras-reservadas)
+  * [Chaves de objeto](#chaves-de-objeto)
 * [Arrays](#arrays)
-  * [Array literal syntax](#array-literal-syntax)
-  * [Adding items](#adding-items)
-  * [Cleaning up](#cleaning-up)
-  * [Array conversion](#array-conversion)
+  * [Sintaxe literal de arrays](#sintaxe-literal-de-arrays)
+  * [Adicionando itens](#adicionando-itens)
+  * [Limpando array](#limpando-array)
+  * [Conversão de array](#conversao-de-array)
 * [Strings](#strings)
-  * [Quotes](#quotes)
-  * [String concatenation](#string-concatenation)
+  * [Aspas](#aspas)
+  * [Concatenação](#concatenação)
   * [Long strings](#long-strings)
-  * [String conversion](#string-conversion)
-* [Functions](#functions)
-  * [Function arguments](#function-arguments)
-* [Naming conventions](#naming-conventions)
-  * [Naming functions](#naming-functions)
-  * [Naming constructors](#naming-constructors)
-  * [Naming private properties](#naming-private-properties)
-  * [Referencing `this`](#referencing-this)
-  * [Naming booleans](#naming-booleans)
-  * [Naming acessors](#naming-acessors)
-  * [Naming event handlers](#naming-event-handlers)
-* [Properties](#properties)
-* [Conditional Expressions and equality](#conditional-expressions-and-equality)
-* [Blocks](#blocks)
-* [Comments](#comments)
-* [Whitespace](#whitespace)
+  * [Conversão de strings](#conversão-de-strings)
+* [Funções](#funções)
+  * [Argumentos de funções](#argumentos-de-funções)
+* [Convenções de nomenclatura](#convenções-de-nomenclatura)
+  * [Nomenclatura de funções](#nomenclatura-de-funções)
+  * [Nomenclatura de construtores](#nomenclatura-de-construtores)
+  * [Nomenclatura de propriedades privadas](#nomenclatura-de-propriedades-privadas)
+  * [Referenciando `this`](#referenciando-this)
+  * [Nomenclatura de booleanos](#nomenclatura-de-booleanos)
+  * [Nomenclatura de acessores](#nomenclatura-de-acessores)
+  * [Nomenclatura de event handlers](#nomenclatura-de-event-handlers)
+* [Propriedades](#propriedades)
+* [Expressões condicionais e de igualdade](#expressões-condicionais-e-de-igualdade)
+* [Blocos](#blocos)
+* [Comentários](#Comentários)
+* [Espaços em branco](#espaços-em-branco)
   * [Tabs](#tabs)
   * [EOF](#eof)
-  * [Condition and loop declarations](#condition-and-loop-declarations)
-  * [Operators](#operators)
-  * [Loop steps](#loop-steps)
-  * [Object declarations](#object-declarations)
-  * [Chaining](#chaining)
-* [Type checking](#type-checking)
+  * [Declaração de condições e loop](#declaração-de-condições-e-loop)
+  * [Operadores](#operadores)
+  * [Etapas de loops](#etapas-de-loops)
+  * [Declaração de objetos](#declaração-de-objetos)
+  * [Encadeamento](#encadeamento)
+* [Verificação de tipo](#verificação-de-tipo)
   * [String](#string)
-  * [Number](#number)
-  * [Boolean](#boolean)
-  * [Object](#object)
+  * [Número](#número)
+  * [Booleano](#booleano)
+  * [Objeto](#Objeto)
   * [Array](#array)
   * [Node](#node)
   * [`null`](#null)
-  * [`null` or `undefined`](#null-or-undefined)
+  * [`null` ou `undefined`](#null-ou-undefined)
   * [`undefined`](#undefined)
-    * [Global variables](#global-variables)
-    * [Local variables](#local-variables)
-    * [Property](#property)
-* [Best practices](#best-practices)
+    * [Variável global](#variável-global)
+    * [Variável local](#variável-local)
+    * [Propriedade](#propriedade)
+* [Melhores práticas](#melhores-práticas)
   * [jQuery](#jquery)
 * [Links](#links)
   * [Styleguides](#styleguides)
-  * [Articles and blog posts](#articles-and-blog-posts)
-  * [Tools](#tools)
+  * [Artigos e posts](#artigos-e-posts)
+  * [Ferramentas](#ferramentas)
 
 ## Disclaimer
 
@@ -237,7 +237,7 @@ var user = {
 
 ## Objetos
 
-### Sintaxe literal
+### Sintaxe literal de objetos
 
 * Use a sintaxe literal para criar objetos.
 
@@ -327,7 +327,7 @@ var config = {
 
 ## Arrays
 
-### Sintaxe literal
+### Sintaxe literal de arrays
 
 * Use sintaxe literal para criação de arrays.
 
@@ -353,7 +353,7 @@ groceries[groceries.length] = 'tomato';
 groceries.push('oreo');
 ```
 
-### Limpeza
+### Limpando array
 
 * Para limpar um array, defina a quantidade como zero.
 

@@ -26,7 +26,7 @@ Este repositório contém as orientações para escrever o código de front-end 
 
 ## Styleguides
 
-* <big>**[JavaScript](/Javacript.md)**</big>
+* <big>**[JavaScript](/Javascript.md)**</big>
 * <big>**[Stylesheet](/Stylesheet.md)**</big>
 * <big>**[Markup](/Markup.md)**</big>
 
