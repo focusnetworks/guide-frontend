@@ -679,7 +679,7 @@ function toggleColorOnClick() {
 
 ### Nomenclatura de seletores de elemento
 
-* Ao nomear seletores de elementos nas classes DOM que terá qualquer tipo de comportamento, adicione o prefixo js` para o nome do seu componente separando palavras usando um hífen` -`.
+* Ao nomear seletores de elementos nas classes DOM que terá qualquer tipo de comportamento, adicione o prefixo `js` para o nome do seu componente separando palavras usando um hífen `-`.
 
 ```html
 <ul class="js-navigation-menu">
