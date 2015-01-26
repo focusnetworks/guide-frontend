@@ -45,3 +45,7 @@ You are not granted rights or licenses to the trademarks of the Focusnetworks, i
 ---
 
 Made with :heart: at [Focusnetworks](http://focusnetworks.com.br)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/focusnetworks/guide-frontend/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
