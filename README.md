@@ -38,14 +38,13 @@ Não definimos como regra o uso de Vim, Sublime Text, TextMate ou qualquer outro
 
 ## License
 
-MIT License. Copyright 2014 Focusnetworks.
+MIT License. Copyright 2015 Focusnetworks.
 
 You are not granted rights or licenses to the trademarks of the Focusnetworks, including without limitation the Interactive logo.
 
 ---
 
-Made with :heart: at [Focusnetworks](http://focusnetworks.com.br)
+Made with :heart: at [Focusnetworks](http://focusnetworks.com.br) by [Danilo Vaz](https://github.com/danilovaz)
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/focusnetworks/guide-frontend/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
